@@ -82,7 +82,7 @@ $(".btn").click(function(){
 
 
 
-/****************** make sound and button animate ****************************/
+/****************** make sound and button animate *****************************/
 function buttonSound(selectedButton){
 
     //adding class to manipulate css for selected colour block
